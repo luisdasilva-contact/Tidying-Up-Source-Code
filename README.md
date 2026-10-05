@@ -4,4 +4,6 @@ Well, maybe not _completely_ straightforward... I make this code open for use, b
 
 Why upload at all, then? One is the simple fact that I'd promised the team and players that I would, and I wanted to follow through. But another is that as messy as some sections are, there are others that are perfectly reusable; the Newgrounds API sections in particularly, especially the level sharing API, which has little in the way of documentation. There are a handful of other sections as well, such as the dialogue or hint systems. 
 
+Please note that the source .fla is available under Releases. 
+
 If you use any of these components or want to learn more, please feel free to reach out!
